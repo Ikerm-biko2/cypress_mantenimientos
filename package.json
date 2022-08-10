@@ -1,0 +1,24 @@
+{
+  "name": "cypress_mantenimientos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test:e2e:browser": "cypress open",
+    "test:e2e:cli": "npx cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ikerm-biko2/cypress_mantenimientos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ikerm-biko2/cypress_mantenimientos/issues"
+  },
+  "homepage": "https://github.com/Ikerm-biko2/cypress_mantenimientos#readme",
+  "dependencies": {
+    "cypress": "^10.4.0",
+    "dotenv": "^16.0.1"
+  }
+}
